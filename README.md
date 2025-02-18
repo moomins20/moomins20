@@ -2,7 +2,7 @@
 Describing myself
 - 👋 Hi, I’m @moomins20
 - 👀 I’m interested in learning! 
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently working with HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on anything
 
 
